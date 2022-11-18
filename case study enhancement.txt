@@ -1,0 +1,7 @@
+Case Study Changes:
+
+1.Initially mail was sent only for user registration but now I added some more components like Admin registration,ticket booking,ticket cancelling and update profile.
+
+2.Some changes made in home page design.
+
+3.Pdf generation is updated 
