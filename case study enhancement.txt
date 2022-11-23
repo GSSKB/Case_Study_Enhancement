@@ -1,6 +1,6 @@
 Case Study Changes:
 
-1.Initially mail was sent only for user registration but now I added some more components like Admin registration,ticket booking,ticket cancelling and update profile.
+1.Initially mail was sent only for User and Admin registration but now I added mail service for ticket booking,ticket cancelling and update profile.
 
 2.Some changes made in home page design.
 
